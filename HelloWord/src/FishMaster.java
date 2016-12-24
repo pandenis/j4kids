@@ -5,7 +5,7 @@ public class FishMaster {
 		Fish myFish = new Fish();
 		myFish.dive(2);
 		myFish.dive(4);
-		myFish.sleep();
+		myFish.sleep();//
 	}
 
 }
